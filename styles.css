@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+ul, ol{
+    list-style-position:inside;
+}
+.main {
+    font-size: 30px;
+}
+.title {
+    font-size: 50px;
+}
+#main-page {
+    font-size: 45px;
+    color:rgb(67, 33, 96);
+}
+.intro {
+    font-family: "Courier New", "Lucida Console", monospace;
+    font-size: 15px;
+}
+#ingredients,#steps {
+    color:red;
+}
+.title.recipe, #main-text {
+    color:rgb(242, 3, 7)
+}
